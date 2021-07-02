@@ -604,10 +604,11 @@ label {
   font-size: 13px;
 }
 #footer a {
-  color: #aaa;
+  color: #fff;
 }
 #footer a:hover {
-  color: #25bad0;
+  color: #030303;
+  text-decoration: none;
 }
 
 
