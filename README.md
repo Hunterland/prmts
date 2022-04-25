@@ -10,4 +10,4 @@
 </ul>
 <p class="has-line-data" data-line-start="14" data-line-end="15">
 <h2 class="code-line" data-line-start=16 data-line-end=17 ><a id="Links_16"></a>Links</h2>
-<p class="has-line-data" data-line-start="18" data-line-end="19">ver projeto <a href="https://hunterland.github.io/prmts/">prmts</a>.
+<p class="has-line-data" data-line-start="18" data-line-end="19">ver projeto <a href="https://hunterland.github.io/prmts/" target"_blank">prmts</a>.
