@@ -4,7 +4,7 @@
 <ul>
 <li class="has-line-data" data-line-start="8" data-line-end="9">HTML</li>
 <li class="has-line-data" data-line-start="9" data-line-end="10">CSS</li>
-<li class="has-line-data" data-line-start="10" data-line-end="12">JAVASCRIPT</li>H
+<li class="has-line-data" data-line-start="10" data-line-end="12">JAVASCRIPT</li>
 <li class="has-line-data" data-line-start="10" data-line-end="12">BOOSTRAP</li>
 <li class="has-line-data" data-line-start="10" data-line-end="12">JQUERY</li>
 </ul>
