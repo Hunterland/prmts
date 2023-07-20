@@ -1,6 +1,6 @@
 # Primatas Clan
 
-O projeto foi desenvolvido para prática de conceitos extraídos da plataforma alura voltada para área de desenvolvimento web.
+O projeto foi desenvolvido para um grupo de dança no amazonas, afins de obter um portifólio para divulgação da arte e trabalhos.
 
 ## 🛠️ Construído com
 
